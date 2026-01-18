@@ -1,6 +1,6 @@
 # Computer Vision with OpenCV
 
-**This repository is dedicated to my studies in **Computer Vision using
+This repository is dedicated to my studies in **Computer Vision using
 OpenCV**.
 
 It covers **fundamental concepts**, **image processing techniques**, and
