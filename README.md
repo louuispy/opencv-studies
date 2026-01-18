@@ -1,7 +1,7 @@
 # Computer Vision with OpenCV
 
 **This repository is dedicated to my studies in **Computer Vision using
-OpenCV.**
+OpenCV**.
 
 It covers **fundamental concepts**, **image processing techniques**, and
 **practical experiments** implemented with **Python**.
